@@ -13,4 +13,4 @@ Remeber, **Virus isn't a toy to play with!** Test it at own risk and on VMs
 * LDPlayer (Recommended) [Download](https://ldplayer.net)
 * BlueStacks [Download](https://bluestacks.com)
 * Memu PLAY [Download](https://memuplay.com)
-* VirtualBox/VMare X84 (FOR EXPERTS) [Image Download](https://www.osboxes.org/android-x86)
+* VirtualBox/VMare (FOR EXPERTS) [Image Download](https://www.osboxes.org/android-x86)
