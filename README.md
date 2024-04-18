@@ -1,5 +1,5 @@
 # ArtZab's Android Virus Database
-This database almost a year:)
+Just database with some unpopular viruses from telegram groups/channels
 
 ### ⚠Disclaimer⚠
 * Remeber, **Virus isn't a toy to play with!** Test it at own risk and on VMs
