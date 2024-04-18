@@ -1,5 +1,5 @@
 # ArtZab's Android Virus Database
-This database is mini and new
+This database almost a year:)
 
 ### ⚠Disclaimer⚠
 * Remeber, **Virus isn't a toy to play with!** Test it at own risk and on VMs
