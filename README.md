@@ -3,7 +3,7 @@ This database is mini and new
 
 ### ⚠Disclaimer⚠
 * Remeber, **Virus isn't a toy to play with!** Test it at own risk and on VMs
-* Viruses have not been tested and do not work
+* Some viruses have not been tested
 
 ### Virtual Machines with Android OC
 #### Mobile
