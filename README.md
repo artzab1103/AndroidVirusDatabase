@@ -14,4 +14,3 @@ This database is mini and new
 * LDPlayer (Recommended) [Download](https://ldplayer.net)
 * BlueStacks [Download](https://bluestacks.com)
 * Memu PLAY [Download](https://memuplay.com)
-* VirtualBox/VMare (FOR EXPERTS) [Image Download](https://www.osboxes.org/android-x86)
